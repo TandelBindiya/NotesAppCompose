@@ -1,4 +1,4 @@
-package com.bindiya.noteapp.ui.theme
+package com.bindiya.noteapp.prensentation.ui.theme
 
 import android.app.Activity
 import android.os.Build
